@@ -1,0 +1,70 @@
+.form{
+    margin: 3rem auto;
+    width: 100%;
+    height: 100%;
+    max-width: 25rem;
+    padding: 1rem;
+    flex-wrap: wrap;
+
+}
+
+
+
+.pay{
+    background-color: rgb(154, 154, 156);
+    padding: 0 0 0 15px;
+    height: 40px;
+    text-overflow: initial;
+    margin: 0;
+}
+
+.num{
+    display: flex;
+    font-weight: bold;
+    padding: 20px 15px;
+    border-radius: 4px;
+    display: initial;
+    margin-bottom: 0.25em;
+    ;
+
+    
+    
+
+    
+}
+
+.date{
+    font-weight: bold;
+    padding: 10px 15px;
+    
+
+    
+}
+
+.two{
+    display: flex;
+}
+
+.cv{
+    padding: 10px 15px;
+    font-weight: bold;
+}
+
+.coupon{
+    font-weight: bold;
+    padding: 10px 15px;
+}
+
+.but{
+    text-align: center;
+    padding: 20px;
+}
+
+.but2{
+    background-color: rgb(87, 243, 183);
+    color: white;
+    width: 100%;
+    height: 40px;
+    font-weight: bold;
+    border-radius: 5px;
+}
